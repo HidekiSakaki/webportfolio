@@ -1,0 +1,49 @@
+* {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  padding-left: 15px;
+  padding-bottom: 1px;
+  padding-top: 15px;
+  background-color: darkslategrey;
+  margin-top: 50px;
+  color: white;
+}
+
+.profile-pic {
+      background-image: url(./images/profilepic.jpg);
+      background-size: cover;
+      height: 400px;
+    }
+
+#backtotop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: darkslategrey;
+  color: whitesmoke;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.align-right {
+    text-align: right;
+}
+
+#socials {
+  list-style: none;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  margin: 0;
+}
+
+.darkslategrey {
+  background-color: darkslategrey;
+}
